@@ -18,8 +18,10 @@ We refer to the <ins>G-Designer</ins> library to build basic agents **src/** [ht
 
 
 ## You should add your API keys in .env
+```python
 OPENAI_API_KEY=""  # for OpenAI LLM beckend
 BASE_URL="" # for URL
+```
 
 ## Dataset
 
