@@ -17,6 +17,10 @@ We refer to the <ins>G-Designer</ins> library to build basic agents **src/** [ht
 * `PyTorch == 2.1.2+cu121`
 
 
+## You should add your API keys in .env
+OPENAI_API_KEY=""  # for OpenAI LLM beckend
+BASE_URL="" # for URL
+
 ## Dataset
 
 We use seven widely used benchmark datasets: MULL, GSM8K, SVAMP, MultiArith, AQuA, HumanEval, MBPP
