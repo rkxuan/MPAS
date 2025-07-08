@@ -8,14 +8,13 @@ We will further fix the bugs, update the applications of MPAS in the future.
 
 We refer to the <ins>GPTSwarm</ins> library to build our agentic graphs **src/** [https://github.com/metauto-ai/GPTSwarm](https://github.com/metauto-ai/GPTSwarm).
 
-We refer to the <ins>G-Designer</ins> library to build basic agents **src/** [https://github.com/yanweiyue/GDesigner](https://github.com/yanweiyue/GDesigner).
+We refer to the <ins>G-Designer</ins> library to build our basic agents **src/** [https://github.com/yanweiyue/GDesigner](https://github.com/yanweiyue/GDesigner).
 
 
 ## Basic Environment
 * `CUDA == 12.1`
 * `Python == 3.10` 
 * `PyTorch == 2.1.2+cu121`
-
 
 ## You should add your API keys in .env
 ```python
@@ -29,7 +28,7 @@ We use seven widely used benchmark datasets: MULL, GSM8K, SVAMP, MultiArith, AQu
 
 ## Code Structure
 
-dataset: The benchmark datasets
+dataset: The benchmark datasets and corresponding pre-processing
 
 experiment: The codes for running benchmark evaluations
 
