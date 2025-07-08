@@ -28,17 +28,17 @@ We use seven widely used benchmark datasets: MULL, GSM8K, SVAMP, MultiArith, AQu
 
 ## Code Structure
 
-dataset: The benchmark datasets and corresponding pre-processing
+dataset: The benchmark datasets
 
-experiment: The codes for running benchmark evaluations
+experiment: The codes for pre-processing datasets and running benchmark evaluations
 
-mpma/environment: The specific defination of agents
+mpma/environment: The specific definations of agents
 
 mpma/llm: The APIs to call LLMs
 
 mpma/optimizer: The implementation of parameterized probabilistic distribution over node-wise topologies
 
-mpma/system: The implementation of the multi-agent system
+mpma/system: The implementation of the node-wise multi-agent system
 
 mpma/utils: Other needed functions or classes
 
