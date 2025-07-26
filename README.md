@@ -1,6 +1,6 @@
 ## MetaGpro
 
-This is the official implementation of "MPAS: Architecting Multi-Agent Communication Topologies Beyond Sequential Structures via Message Passing Protocol"
+This is the official implementation of "MPAS: Breaking Sequential Constraints of Multi-Agent Communication Topologies via Individual-Epistemic Message Propagation"
 
 Our multi-agent scheme is named as MPAS (Message Passing Multi-Agent System).
 
