@@ -11,6 +11,10 @@ We refer to the <ins>GPTSwarm</ins> library to build our agentic graphs **src/**
 We refer to the <ins>G-Designer</ins> library to build our basic agents **src/** [https://github.com/yanweiyue/GDesigner](https://github.com/yanweiyue/GDesigner).
 
 
+<p align="center">
+<img center src="https://github.com/rkxuan/MPAS/scheme.png" width = "450" alt="logo">
+</p>
+
 ## Basic Environment
 * `CUDA == 12.1`
 * `Python == 3.10` 
