@@ -12,7 +12,7 @@ We refer to the <ins>G-Designer</ins> library to build our basic agents **src/**
 
 
 <p align="center">
-<img center src="https://github.com/rkxuan/MPAS/scheme.png" width = "450">
+  <img src="https://github.com/rkxuan/MPAS/scheme.png" width="450" alt="MPAS Scheme">
 </p>
 
 ## Basic Environment
