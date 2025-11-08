@@ -55,4 +55,4 @@ AQuA:
 * `!python experiment/run_aqua.py --debug=True`
 
 ## News
-* 🔥 **[2025/11/08]** Our work has been accepted by [AAAI2026](Oral).
+* 🔥 **[2025/11/08]** Our work has been accepted by AAAI2026 (Oral).
